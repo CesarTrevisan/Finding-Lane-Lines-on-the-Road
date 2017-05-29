@@ -1,6 +1,6 @@
 # Self Driving Car Nanodegree Program
 
-![GitHub Logo](/images/car.png)
+![GitHub Logo](/images/car.jpg)
 
 ---
 
